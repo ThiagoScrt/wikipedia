@@ -1,0 +1,50 @@
+
+body {
+            font-family: Arial, sans-serif;
+            color:rgb(255, 255, 255);
+            margin: 0;
+            padding: 0;
+            background-color: rgb(0, 0, 0);
+        }
+        header {
+            text-align: center;
+            background-color: #505050;
+            padding: 5px 0;
+        }
+        sidebar {
+            width: 140px;
+            float: left;
+        }
+        anchors {
+            font-family: Arial, sans-serif;
+            float: right;
+            width: 170px;
+            padding: 5px;
+            margin: 0;
+
+        }
+        
+        main {
+            margin-left: 150px;
+            margin-right:160px; /* Espaço para o sidebar */
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        footer {
+            color: rgb(255, 255, 255);
+            background-color: #505050;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            font-family: valorant;
+        }
+        li {
+            list-style-type: none;
+            padding: 0;
+        }
+        a {
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+        }

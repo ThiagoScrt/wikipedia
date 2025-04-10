@@ -42,7 +42,11 @@ body {
         }
         li {
             list-style-type: none;
-            padding: 0;
+            padding:0;
+            background-color: #505050;
+            border-radius: 5px;
+            margin: 5px 0px;
+            
         }
         a {
             text-decoration: none;
